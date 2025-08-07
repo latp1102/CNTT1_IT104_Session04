@@ -22,7 +22,7 @@ const newOrder: Order = {
         {product: { id: "1", name: "áo sơ mi", price: 500000}, quantity: 1},
         {product: { id: "1", name: "quần tây", price: 400000}, quantity: 1},
     ],
-    orderId: "123",
+    orderId: "#OD001",
     note: "Giao sau 18h",
 };
 
